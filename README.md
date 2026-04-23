@@ -12,8 +12,9 @@ Hello World! I am an aspiring web developer ,machine learning enthusiast with a 
 * 🚀  I'm currently working on [BLackInkk](http://www.blackinkkk.com/)
 * 🧠  I'm currently learning JS and React
 * 👥  I'm looking to collaborate on ML and AI projects and web designing
-* 💬  Ask me about I love playing the guitar
+* 💬  I love playing the guitar
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/staright-silk"><img src="https://github-readme-stats.vercel.app/api?username=staright-silk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="staright-silk's GitHub stats" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=staright-silk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=staright-silk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=staright-silk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
