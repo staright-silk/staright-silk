@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I am an aspiring web developer ,machine learning enthusiast with a huge love for python, finding my way through the world.
+Hello World! I am an aspiring quantum engineer ,machine learning enthusiast with a huge love for python, finding my way through the world.
 
 
 ## 🌐 Socials:
