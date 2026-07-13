@@ -10,7 +10,7 @@ Hello World! I am an aspiring quantum engineer ,machine learning enthusiast with
 * 🌍  I'm based in India
 * ✉️  You can contact me at [atreya.sept@gmail.com](mailto:atreya.sept@gmail.com)
 * 🚀  I'm currently working on [Singularity](https://github.com/staright-silk/Project-Singularity)
-* 🧠  I'm currently imporving my web development skills.
+* 🧠  I'm currently improving my web development skills and python skills.
 * 👥  I'm looking to collaborate on ML and AI projects.
 * 💬  I love playing the guitar
 
